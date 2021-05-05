@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassesAndMembers", "AbstractClassesAndMembers\AbstractClassesAndMembers.csproj", "{D6D3685F-20BA-4D2A-96F6-636E3D0997FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedClassesAndMembers", "SealedClassesAndMembers\SealedClassesAndMembers.csproj", "{F1212E6E-835A-44FC-9DF1-D8B3512ECA55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{D6D3685F-20BA-4D2A-96F6-636E3D0997FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6D3685F-20BA-4D2A-96F6-636E3D0997FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6D3685F-20BA-4D2A-96F6-636E3D0997FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1212E6E-835A-44FC-9DF1-D8B3512ECA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1212E6E-835A-44FC-9DF1-D8B3512ECA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1212E6E-835A-44FC-9DF1-D8B3512ECA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1212E6E-835A-44FC-9DF1-D8B3512ECA55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
