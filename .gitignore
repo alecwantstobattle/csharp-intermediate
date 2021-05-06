@@ -41,3 +41,8 @@
 /AbstractClassesAndMembers/obj/
 /SealedClassesAndMembers/bin/
 /SealedClassesAndMembers/obj/
+/InterfacesAndTestability/bin/
+/InterfacesAndTestability/obj/
+/TestabilityUnitTests/obj/
+/TestabilityUnitTests/bin/
+/packages/
